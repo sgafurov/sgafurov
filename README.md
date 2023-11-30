@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Shakhram</h1>
 <h3 align="center">Software engineer based in New York</h3>
+<h3 align="center">https://shakhram.netlify.app/</h3>
 <div align="center">
 <a href="https://github.com/sgafurov/">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=3572A5#gh-light-mode-only" alt="Checkout my development stack" >
