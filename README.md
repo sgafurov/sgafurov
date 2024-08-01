@@ -45,14 +45,7 @@ Here are some ideas to get you started:
  
 </div>
 
-<table background="black">
-  <tr>
-  
-<td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgafurov&theme=dark&show_icons=true&locale=en&layout=compact"/></td>
-&nbsp;
- <td align="center"><img width="85%" src="https://github-readme-stats.vercel.app/api?username=sgafurov&theme=dark&hide_border=true&show_icons=true&locale=en"/></td>
-     </tr>
-</table>
+
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sgafurov&theme=dark"/></a>
